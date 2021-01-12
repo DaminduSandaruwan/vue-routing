@@ -1,0 +1,7 @@
+{
+    "jobs": [
+        { "title":"UX Designer", "id":1, "details":"loream" },
+        {"title":"UI Designer", "id":2, "details":"loream"},
+        {"title":"Developer", "id":3, "details":"loream"}
+    ]
+}
